@@ -1,1 +1,2 @@
-models/
+models/vae/*.h5
+models/cvae/*.h5
